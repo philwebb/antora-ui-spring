@@ -108,6 +108,10 @@ shared:
                   url: 'https://spring.io'
                   roles: 'link-external'
                   target: '_blank'
+            - content: No URL
+              items:
+                - content: Example
+                  url: '/samples/nourl/index.html'
   baz:
     1.0.0:
       home: true

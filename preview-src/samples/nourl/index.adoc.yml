@@ -1,0 +1,9 @@
+url: /samples/nourl/index.html
+component:
+  name: foobar
+version: '2.0.0'
+latest:
+  url: '/samples/nourl/index.html'
+  version: '2.0.0'
+  displayVersion: '2.0.0'
+  title: Spring Foobar
