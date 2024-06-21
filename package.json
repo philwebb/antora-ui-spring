@@ -72,6 +72,7 @@
   "dependencies": {
     "@algolia/client-search": "^4.17.0",
     "@primer/octicons": "^19.8.0",
-    "init": "^0.1.2"
+    "init": "^0.1.2",
+    "jsdom": "^24.1.0"
   }
 }
